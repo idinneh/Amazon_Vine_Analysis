@@ -46,7 +46,7 @@ The percenrtage of 5-star non-vine reviews is 58.3%.
 
 
 ## Summary
-58.3% of the reviews in the Non-Vine program were 5 stars reviews whereas the percentage in the Vine reviews is only 35.4%. This describes there is no positivity bias for reviews in the Vine program.
+58.3% of the reviews in the Non-Vine program were 5 stars reviews whereas the percentage in the Vine reviews is only 35.4%. This describes there is no positivity bias for reviews in the Vine program. In conclusion, customers don't feel a positivity bias for leaving good reviews in the paid (vine) program as there are so few and not so many well-rated. 
 An additional analysis we could perform is the statistical distribution (mean, median and mode) of the star rating for the Vine and non-Vine reviews.
 
 
